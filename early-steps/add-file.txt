@@ -1,0 +1,14 @@
+1. git init = initialise
+2. cd "add directory name"
+3. git add "file name"
+4. git status
+5. git commit -m "add file namee or whatever"
+6. git status
+7. git log --oneline
+
+*create repository on git up and copy url*
+
+8. git remote add origin (enter url)
+9. git push -u origin main = pushes online
+
+

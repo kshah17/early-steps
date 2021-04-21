@@ -1,0 +1,31 @@
+1. go on github and fork required file then open bash
+2. git clone (my url)
+3. cd (name of file)
+
+* make changes*
+
+4. git remote add upstream (their url)
+5. git status
+6. git remote -v
+7. git add .
+8. git commit -m "added xyz"
+9. git push
+10. git merge
+
+*go onto githut and submit pull request*
+*wait for accepted request i.e merged*
+
+11. git pull
+12. git fetch upstream
+13. git merge upstream/main
+14. git push
+
+*To check for updates/updated versions of cloned files*
+1. git push
+2. git merge
+3. git remote -v
+4. git fetch upstream
+5. git merge upstream/main
+
+*check contents of files on bash*
+cat readme.md (or whatever the file is called
